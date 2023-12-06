@@ -9,7 +9,7 @@ export default function ModalScreen() {
     <View style={styles.container}>
       <Text style={styles.title}>Modal</Text>
       <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
-      <Text style={styles.text}>This is Pomodoro Timer by Chaika Valeriia. 
+      <Text style={styles.text}>This is Pomodoro Timer by Savina Elithabed. 
       Thanks for downloading this!</Text>
 
       {/* Use a light status bar on iOS to account for the black space above the modal */}
